@@ -111,7 +111,7 @@ audio.pause();
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-10-08 111206.png>)
+![alt text](imagess.png)
 
 ## RESULT:
 
